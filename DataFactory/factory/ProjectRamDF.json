@@ -1,0 +1,9 @@
+{
+	"name": "ProjectRamDF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a9b5d03-d866-44ab-b1c2-338b2060bd7b",
+		"tenantId": "1b176099-5312-48c0-9446-c988d5e1ecdc"
+	}
+}
