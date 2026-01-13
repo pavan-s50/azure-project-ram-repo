@@ -1,0 +1,7 @@
+{
+	"name": "OnPrimeToAzureintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "trace the integration run time "
+	}
+}
